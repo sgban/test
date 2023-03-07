@@ -3,7 +3,7 @@
 	"Lang": "ru",
 	"DebugLog": false,
 	"ВерсияVA": "ver 1.2.040.1",
-	"КаталогФич": "C:\\Users\\gribs\\Downloads\\Эталонные решения\\Модуль 2\\Заполнение шапки документа заказ Экспорт.feature",
+	"КаталогФич": "",
 	"ДобавлятьКИмениСценарияУсловияВыгрузки": false,
 	"ЗаписыватьВидеоВыполненияТестов": false,
 	"КоличествоКадровВидеоВыполненияТестов": 5,
@@ -117,7 +117,8 @@
 	"ДелатьОтчетВоВнутреннемФормате": false,
 	"КаталогиБиблиотек": [
 		"F:\\Demo\\vanessa-automation\\features\\Libraries",
-		"C:\\Users\\gribs\\Documents\\GitHub\\test\\Features\\External"
+		"C:\\Users\\gribs\\Documents\\GitHub\\test\\Features\\External",
+		"C:\\Users\\gribs\\Downloads\\Features_IRP\\External"
 	],
 	"СписокТеговИсключение": [
 		"IgnoreOnCIMainBuild"
